@@ -30,6 +30,15 @@ const styles = StyleSheet.create({
     flex: 1,
     flexWrap: 'wrap',
   },
+  priority: {
+    fontSize: 18,
+    flex: 1,
+    flexWrap: 'wrap',
+    color: 'white',
+    fontWeight: 'bold',
+    textAlign: 'center',
+    textAlignVertical: 'center',
+  },
 });
 
 export default styles;
